@@ -1,2 +1,2 @@
 # nba-mvp
-NBA MVP Prediction
+NBA MVP Prediction Project
